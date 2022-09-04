@@ -264,7 +264,7 @@ nav ul li a:hover {
         display: block;
         position: absolute;
         top: 5vh;
-        left: 60vh;
+        left: 45vh;
         height: 5vh;
         width: 8vh;
     }
@@ -389,7 +389,7 @@ nav ul li a:hover {
     .container {
         background-color: rgb(235, 239, 176);
         height: 605vh;
-        width: 150vw;
+        width: 100vw;
     }
 
     .D1 {
