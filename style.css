@@ -263,8 +263,10 @@ nav ul li a:hover {
     #bar{
         display: block;
         position: absolute;
-        top: 40px;
-        left: 300px;
+        top: 5vh;
+        left: 60vh;
+        height: 5vh;
+        width: 8vh;
     }
     .photo1 {
         display: flex;
